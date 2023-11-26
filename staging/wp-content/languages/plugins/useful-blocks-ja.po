@@ -1,0 +1,150 @@
+# Translation of Plugins - Useful Blocks - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Useful Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-23 12:27:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Useful Blocks - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Ponhiro, Ryo"
+msgstr "ぽんひろ & 了"
+
+#: class/Menu/Tab_Colors.php:36
+msgid "Green"
+msgstr "グリーン"
+
+#: class/Menu/Tab_Colors.php:35
+msgid "Pink"
+msgstr "ピンク"
+
+#: class/Menu/Tab_Colors.php:34
+msgid "Yellow"
+msgstr "イエロー"
+
+#: class/Menu/Tab_Colors.php:20
+msgid "Color set common to each block."
+msgstr "各ブロックに共通したカラーセットです。"
+
+#: class/Menu/Tab_Colors.php:18
+msgid "Common color set"
+msgstr "共通カラーセット"
+
+#: inc/ajax.php:19 src/js/admin_menu.js:33
+msgid "Failed."
+msgstr "失敗しました。"
+
+#: inc/ajax.php:16
+msgid "Succeeded."
+msgstr "成功しました。"
+
+#: inc/menu/tab/reset.php:3
+msgid "Reset settings"
+msgstr "設定をリセットする"
+
+#: inc/menu/setting_page.php:7
+msgid "Your settings have been saved."
+msgstr "設定を保存しました。"
+
+#: class/Data.php:55 inc/menu/tab/reset.php:6
+msgid "Reset"
+msgstr "リセット"
+
+#: class/Menu/Tab_Colors.php:252 dist/blocks/iconbox/index.js:1
+#: src/blocks/iconbox/_controls.js:42
+msgid "Right"
+msgstr "右"
+
+#: class/Menu/Tab_Colors.php:250 dist/blocks/iconbox/index.js:1
+#: src/blocks/iconbox/_controls.js:41
+msgid "Left"
+msgstr "左"
+
+#: class/Menu/Tab_Colors.php:167
+msgctxt "color"
+msgid "Border"
+msgstr "線"
+
+#: class/Menu/Tab_Colors.php:165
+msgctxt "color"
+msgid "Button"
+msgstr "ボタン"
+
+#: class/Menu/Tab_Colors.php:164
+msgctxt "color"
+msgid "Icons"
+msgstr "アイコン"
+
+#: class/Menu/Tab_Colors.php:86 class/Menu/Tab_Colors.php:166
+msgctxt "color"
+msgid "Shadow"
+msgstr "影"
+
+#: class/Menu/Tab_Colors.php:75 class/Menu/Tab_Colors.php:163
+#: class/Menu/Tab_Colors.php:339 class/Menu/Tab_Colors.php:425
+#: class/Menu/Tab_Colors.php:578
+msgctxt "color"
+msgid "Background"
+msgstr "背景"
+
+#: class/Menu/Tab_Colors.php:64
+msgctxt "color"
+msgid "Base"
+msgstr "基本"
+
+#: class/Menu/Tab_Colors.php:37
+msgid "Blue"
+msgstr "ブルー"
+
+#. Description of the plugin
+msgid "It is a plugin that collects very convenient blocks."
+msgstr "痒いところに手がとどく、便利なブロックを集めたプラグインです。"
+
+#: class/Menu/Tab_Colors.php:340 dist/blocks/button/index.js:1
+#: dist/blocks/rating-graph-item/index.js:1 src/blocks/button/_sidebar.js:134
+#: src/blocks/rating-graph-item/_sidebar.js:32
+msgid "Icon"
+msgstr "アイコン"
+
+#: class/Menu/Tab_Colors.php:213 dist/blocks/compare-box/index.js:1
+#: src/blocks/compare-box/index.js:26
+msgid "Comparison box"
+msgstr "比較ボックス"
+
+#: class/Menu/Tab_Colors.php:126 dist/blocks/cv-box/index.js:1
+#: src/blocks/cv-box/index.js:32
+msgid "CV Box"
+msgstr "CV ボックス"
+
+#: class/Data.php:53 dist/blocks/bar-graph/index.js:1
+#: dist/blocks/compare-box/index.js:1 dist/blocks/cv-box/index.js:1
+#: dist/blocks/iconbox/index.js:1 dist/blocks/rating-graph/index.js:1
+#: src/blocks/bar-graph/_controls.js:63 src/blocks/compare-box/_controls.js:69
+#: src/blocks/cv-box/_sidebar.js:66 src/blocks/iconbox/_controls.js:52
+#: src/blocks/rating-graph/_sidebar.js:52
+msgid "Color set"
+msgstr "カラーセット"
+
+#: class/Admin_Menu.php:22 dist/blocks/image/index.js:1
+#: src/blocks/image/_toolbar.js:34
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: inc/hooks.php:14
+msgid "Go Pro"
+msgstr "プロ版へ"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://ponhiro.com/useful-blocks/"
+msgstr "https://ponhiro.com/useful-blocks/"
+
+#. Plugin Name of the plugin
+#: inc/admin_menu.php:15 inc/admin_menu.php:16 inc/register_blocks.php:67
+msgid "Useful Blocks"
+msgstr "Useful Blocks"
